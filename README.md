@@ -1,6 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on Visual Studio Code<br>🎓 I am studying information technology at Ho Chi Minh City College of Information Technology<br>🌱 I am realizing my dream of becoming a Backend Developer<br>✨ My hobby is programming and learning supporting technologies for my major
+# 💫 **About Me**
 
+🎓 Hi there! I'm a passionate and energetic IT student from **Ho Chi Minh City College of Information Technology (ITC)**. As a dynamic and sociable individual, I am determined to pursue my dream of becoming a **Full-Stack Developer** while constantly leveling up my skills.  
+
+💡 **Who am I?**  
+- 🔥 A problem-solver who thrives on challenges and creativity.  
+- 🛠️ Passionate about developing **Games**, **Apps**, and **Websites**.  
+- 🤖 **Love integrating AI into work**: I believe in the power of automation and smart tools to make life easier and more efficient.  
+- 🌟 My nickname "**CuongAFK**" isn't just about being idle – it's about **automation** and making things run seamlessly even when I'm away!  
+- 🧘‍♂️ Calm and patient, even when faced with tricky problems.  
+- 📚 Continuously learning and improving every single day.  
+- 🌍 Although my English skills still need work, I’m on the way to mastering it as I aim for global opportunities!  
+
+---
+
+### **🌈 Fun Facts & Meme Corner**  
+💻 *"One line of code breaks – debug all day. One line of code works – feel like the **King of IT**!"*  
+👨‍💻 *"Being an IT student isn’t just a profession – it’s a way to **survive through endless deadlines!**"*  
+🚀 **Favorite Quote:** *"The only way to go is up – never stop learning and improving!"*
+
+---
+
+### 🛠 **My Strengths**  
+- **Problem-Solving Mindset**: I don’t just work—I strive for the most efficient solutions.  
+- **Creative Thinking**: I love taking bold ideas and turning them into reality.  
+- **Teamwork & Independence**: I excel both individually and as part of a team.  
+- **Patience & Calmness**: Every problem has a solution with enough determination.  
+
+---
+
+### 🎨 **Let’s Add Some Colors**  
+<p align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="150">
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100051225932313) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Cuong_AFK) 
