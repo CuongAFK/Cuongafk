@@ -14,7 +14,6 @@
 ---
 
 ### **🌈 Fun Facts & Meme Corner**  
-💻 *"One line of code breaks – debug all day. One line of code works – feel like the **King of IT**!"*  
 👨‍💻 *"Being an IT student isn’t just a profession – it’s a way to **survive through endless deadlines!**"*  
 🚀 **Favorite Quote:** *"The only way to go is up – never stop learning and improving!"*
 
